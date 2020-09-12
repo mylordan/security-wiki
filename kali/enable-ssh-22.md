@@ -4,7 +4,7 @@
 ### 1 - Edit /etc/ssh/ssh_config
 
 ```
-$: sudo vi /etc/ssh/sshd_config
+$: sudo vi /etc/ssh/ssh_config
 
 ### Remove '#' for below configuration items:
 PasswordAuthentication yes
